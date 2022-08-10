@@ -1,0 +1,22 @@
+{
+    "name": "long/contact",
+    "description": "This test package laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Long",
+            "email": "nggthanhlong@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "long\\contact": "src/"
+            
+        }
+    }
+}
