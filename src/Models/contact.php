@@ -1,6 +1,6 @@
 <?php
 
-namespace long\contact\Models;
+namespace longggng\contact\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

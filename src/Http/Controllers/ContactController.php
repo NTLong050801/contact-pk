@@ -1,10 +1,10 @@
 <?php
 
-namespace long\contact\Http\Controllers;
+namespace longggng\contact\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use long\contact\Models\contact;
-use long\contact\Mail\ContactMailable;
+use longggng\contact\Models\contact;
+use longggng\contact\Mail\ContactMailable;
 class ContactController extends Controller
 {
     //

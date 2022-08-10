@@ -1,6 +1,6 @@
 <?php
 
-namespace long\contact\Mail;
+namespace longggng\contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

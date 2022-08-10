@@ -1,6 +1,6 @@
 <?php
 
-namespace long\contact;
+namespace longggng\contact;
 
 use Illuminate\Support\ServiceProvider;
 
